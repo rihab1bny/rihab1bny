@@ -8,6 +8,5 @@ I'm Rihab, a passionate computer science student exploring generative AI.
 
 Feel free to explore my repositories and contribute to the open-source world! 🙂
 
-linkenIn : linkedin.com/in/rihab-ben-yahmed-076046347/
 
 
